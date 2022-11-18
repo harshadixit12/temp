@@ -20,6 +20,21 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "request 2 on dev",
+			"id": "3fcb8fb8-7eeb-49a3-9ff8-baeb102a06e5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
 		}
 	]
 }
